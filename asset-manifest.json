@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crowdfund/static/css/main.4e2506b2.css",
-    "main.js": "/crowdfund/static/js/main.13092026.js",
+    "main.js": "/crowdfund/static/js/main.450b96ba.js",
     "static/media/desktop.jpg": "/crowdfund/static/media/desktop.631209c1fe8e34fb78c2.jpg",
     "static/media/mastercraft.svg": "/crowdfund/static/media/mastercraft.dca2a8312b376716a2e0b7dfb8828b86.svg",
     "index.html": "/crowdfund/index.html",
@@ -9,10 +9,10 @@
     "static/media/check.svg": "/crowdfund/static/media/check.bdee5269fa45688504fcc6fb78ab8756.svg",
     "static/media/bookmark.svg": "/crowdfund/static/media/bookmark.7777f8ecb9146d532ec6d401ce72f26e.svg",
     "main.4e2506b2.css.map": "/crowdfund/static/css/main.4e2506b2.css.map",
-    "main.13092026.js.map": "/crowdfund/static/js/main.13092026.js.map"
+    "main.450b96ba.js.map": "/crowdfund/static/js/main.450b96ba.js.map"
   },
   "entrypoints": [
     "static/css/main.4e2506b2.css",
-    "static/js/main.13092026.js"
+    "static/js/main.450b96ba.js"
   ]
 }
